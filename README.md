@@ -1,4 +1,7 @@
-<h1 align="center">Hello, my name is Maria Fernanda!</h1>
+<h1 align="center">Hello, my name is Maria Fernanda! 🪐✨</h1>
+
+- 𓍢ִ໋🌷͙֒ systems development student
+- 🍄🍓🍰🧸🦋🐋🦈🐙🌺🌊
 
 <div align="center">
   <a href="https://www.instagram.com/fefe.jpeg/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -6,7 +9,7 @@
 </div>
 
 ##
-## Estou aprendendo
+## I'm learning:
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
 <img src="https://www.techbaz.org/Course/img/c-logo.png" width="40px" height="40px">

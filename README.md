@@ -10,8 +10,8 @@
 
 <div align="center">
   <a href="https://github.com/fefemattoso">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=fefemattoso&show_icons=true&theme=omni">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fefemattoso&theme=omni">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=fefemattoso&show_icons=true&theme=bear">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fefemattoso&theme=bear">
 </div>
 
 ### 

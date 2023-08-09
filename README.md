@@ -8,6 +8,20 @@
   <a href="https://www.linkedin.com/in/maria-fernanda-mattoso-57a807257/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
+<div align="center">
+  <a href="https://github.com/fefemattoso">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=fefemattoso&show_icons=true&theme=synthwave">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fefemattoso&theme=synthwave">
+</div>
+
+### 
+
+<div>
+  <a href="https://github.com/fefemattoso">
+   <img src="https://github-readme-activity-graph.vercel.app/graph?username=fefemattoso&bg_color=20181c&color=9e4c98&line=630c92&point=b62087&area=true&hide_border=true">
+</div>
+
+
 ##
 ## I'm learning:
 

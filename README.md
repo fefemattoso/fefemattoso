@@ -1,6 +1,6 @@
 <h1 align="center">Hello, my name is Maria Fernanda! 🪐✨</h1>
 
-- 𓍢ִ໋🌷͙֒ systems development student
+- 𓍢ִ໋🌷͙֒  systems development student
 - 🍄🍓🍰🧸🦋🐋🦈🐙🌺🌊
 
 <div align="center">

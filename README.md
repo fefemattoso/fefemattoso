@@ -1,4 +1,4 @@
-<h1 style="color:pink;text-align:center;">Hello, my name is Maria Fernanda!</h1>
+<h1 style="text-align:center;">Hello, my name is Maria Fernanda!</h1>
 
 <div align="center">
   <a href="https://www.instagram.com/fefe.jpeg/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>

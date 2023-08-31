@@ -1,7 +1,9 @@
 <h1 align="center">Hello, my name is Maria Fernanda! 🪐✨</h1>
 
-- 𓍢ִ໋🌷͙֒  systems development student
-- 🍄🍓🍰🧸🦋🐋🦈🐙🌺🌊
+<h3 align="center">- 𓍢ִ໋🌷͙֒  systems development student</h3>
+<h3 align="center">- 🍄🍓🍰🧸🦋🐋🦈🐙🌺🌊</h3>
+
+<div align="center"><img src="https://i.gifer.com/origin/1c/1c29154636f73295ad5fe84068c7a180.gif" height="200em"></div>
 
 <div align="center">
   <a href="https://www.instagram.com/fefe.jpeg/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -10,8 +12,8 @@
 
 <div align="center">
   <a href="https://github.com/fefemattoso">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=fefemattoso&show_icons=true&theme=bear">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fefemattoso&theme=bear">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=fefemattoso&show_icons=true&theme=rose">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fefemattoso&theme=rose">
 </div>
 
 ### 
